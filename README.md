@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Java programming language.
 - 👯 I’m looking to collaborate
 - 📫 How to reach me: gulsufindik@icloud.com
+- 🌞 Have a great day!
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gülsu Fındık</h1>
+<h1 align="center">Hi 🙋‍♀️, I'm Gülsu Fındık</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
 - 📫 How to reach me *gulsufindik@icloud.com*
